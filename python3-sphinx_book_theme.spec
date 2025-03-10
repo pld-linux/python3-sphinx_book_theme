@@ -9,7 +9,7 @@ Name:		python3-sphinx_book_theme
 # 1.0.1 requires Sphinx 4..6 and sphinx-theme-builder
 # 0.3.3 requires Sphinx 3..5 and sphinx-theme-builder
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-book-theme/
